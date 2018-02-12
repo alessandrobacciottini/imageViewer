@@ -1,7 +1,9 @@
 # imageViewer
 
 Link demo applicazione web:
-http://imageviewer.altervista.org/            username e password di prova: ale ale 
+http://imageviewer.altervista.org/          
+username e password di prova: ale ale 
+
 Purtroppo su questo host gratuito non è attiva l'estensione del PHP Exif, quindi non visualizza nella tabella i metadati relativi al JPEG.
 
 Per una demo funzionante:
